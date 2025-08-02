@@ -1,0 +1,5 @@
+{"timestamp": "2025-08-01T12:21:06.165115", "action": "add_document", "detail": {"doc_id": "896e8a68-1059-4084-b8f9-dfceb7a65aac", "file": "uploaded_temp\\保険証券１.pdf"}}
+{"timestamp": "2025-08-01T12:21:24.573251", "action": "add_document", "detail": {"doc_id": "d5d913d2-4e11-457f-813e-ff5168d76850", "file": "uploaded_temp\\水道.jpg"}}
+{"timestamp": "2025-08-02T14:02:00.909106", "action": "add_document", "detail": {"doc_id": "d97f3c95-6a82-4073-932d-1363110d8663", "file": "uploaded_temp\\保険証券１.pdf"}}
+{"timestamp": "2025-08-02T14:02:49.085388", "action": "add_document", "detail": {"doc_id": "4052de52-e248-4eb5-b41b-83058906b6d5", "file": "uploaded_temp\\保険証券１.pdf"}}
+{"timestamp": "2025-08-02T14:03:14.691969", "action": "delete_document", "detail": {"doc_id": "4052de52-e248-4eb5-b41b-83058906b6d5"}}
